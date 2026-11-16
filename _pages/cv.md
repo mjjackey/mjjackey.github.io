@@ -5,10 +5,11 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+paperurl: 'https://mjjackey.github.io/files/Jing_Meng_Industry_CV_ML_Engineer.pdf'
 ---
 
-{% include base_path %}
- <ul> </ul>
+<!-- {% include base_path %} -->
+[Download](https://mjjackey.github.io/files/Jing_Meng_Industry_CV_ML_Engineer.pdf)
 
 <!-- Education
 ======
