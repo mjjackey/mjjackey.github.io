@@ -1,5 +1,5 @@
 ---
-title: "Overlap‑Aware Soft‑InfoNCE for Fine‑Grained Emotion Classification"
+title: "Overlap‑Aware Soft‑InfoNCE for Fine‑Grained Emotion Classification(Under Review)"
 collection: publications
 category: conferences
 permalink: /publication/Ov_Soft
