@@ -11,4 +11,4 @@ venue: 'ICAID 2027'
 ---
 
 <!-- Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected. -->
-A manuscript based on this work has been submitted to ICAID 2027 and is currently under review
+A manuscript based on this work has been submitted to ICAID 2027 and is currently under review.
