@@ -23,7 +23,7 @@ repository               : "mjjackey/mjjackey.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my_profile.png"
+  avatar           : "my_profile.jpg"
   name             : "Jing Meng"
   pronouns         : "They/Them"  # example: "she/her"
   bio              : "Now, focus on AI + Python(C++). Former Data Science MSc and MBA @ Southampton. Former Mathematical Modelling and Control Theory, Automation BE. Into Maths&Dogs"
